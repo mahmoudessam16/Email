@@ -1,0 +1,12 @@
+textarea {
+    min-height: 400px;
+}
+.as-read {
+    background-color: yellow;
+}
+.unread {
+    background-color: white;
+}
+.border-email {
+    border: 1px solid black;
+}
